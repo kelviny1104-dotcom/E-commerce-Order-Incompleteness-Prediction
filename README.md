@@ -1,5 +1,8 @@
 # Predicting Order Incompleteness in Amazon E-Commerce Transactions
 
+Data sets:
+
+
 ## Project Overview
 Incomplete orders create significant operational inefficiencies in e-commerce systems, including revenue loss, inventory disruption, and increased customer-service workload.
 
@@ -65,7 +68,3 @@ This framework enables:
 - Targeted operational interventions
 - Data-driven optimization of product listings and payment strategies
 
-## Next Steps
-- Explore Gradient Boosting (e.g., XGBoost)
-- Incorporate fulfillment and shipping-type features
-- Deep-dive investigation into high-risk payment methods
